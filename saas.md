@@ -1,6 +1,6 @@
 # Sass
 
-Fonte: sass source/stylesheets/index.scss build/stylesheets/index.csshttps://sass-lang.com/guide
+Fonte: https://sass-lang.com/guide
 
 Sass is a stylesheet language that’s compiled to CSS. 
 
